@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android and Web dev
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me... I'm available on akshatsharmarm@gmail.com
+- 📫 How to reach me... 
 
 <!---
 ShaAks129/ShaAks129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
